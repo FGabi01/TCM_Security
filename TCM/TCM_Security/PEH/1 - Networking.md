@@ -101,6 +101,6 @@ From 1 - 7
 
 ---
 ## Subnetting
-![[subnetting.png]]
+![https://github.com/FGabi01/TCM_Security/blob/main/TCM/TCM_Security/Pictures/subnetting.png]
 www.ipaddressguide.com/cidr
 ---
