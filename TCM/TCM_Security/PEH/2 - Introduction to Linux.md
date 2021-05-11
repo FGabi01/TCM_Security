@@ -32,6 +32,7 @@ man - Manual
 
 ## Users and Privileges
 ![](https://github.com/FGabi01/TCM_Security/blob/main/TCM/TCM_Security/Pictures/user_and_privilieges.png)
+
 \- is for file  
 d is for directory  
 r - read  
