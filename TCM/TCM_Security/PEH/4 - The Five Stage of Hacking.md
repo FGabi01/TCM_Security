@@ -18,6 +18,6 @@
    - Delete logs, malware, accounts  
       - Clean up
 
-![[fiveStagesOfHacking.png]]
+![](https://github.com/FGabi01/TCM_Security/blob/main/TCM/TCM_Security/Pictures/fiveStagesOfHacking.png)
 
---------------------------------------------
+---
