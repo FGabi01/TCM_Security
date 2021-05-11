@@ -2,7 +2,7 @@
 1. Reconnaissance - Information Gathering (Active and Passive)  
    - Passive:  
       - Google, LinkedIn, Twitter  
-  
+  Cancel changes
 2. Scanning & Enumeration (Nmap, Nessus, Nikto. etc) (Active)  
    - Go out with tools and scan actively against the client  
    - Enumeration- Looking for files  
