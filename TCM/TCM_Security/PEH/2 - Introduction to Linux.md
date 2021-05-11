@@ -31,7 +31,7 @@ man - Manual
 --------------------------------------------
 
 ## Users and Privileges
-![[user_and_privilieges.png]]
+![](user_and_privilieges.png)
 \- is for file  
 d is for directory  
 r - read  
