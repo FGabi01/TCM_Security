@@ -97,8 +97,8 @@ The domain tree is a hierarchy of domains in AD DS
 
 | Types of Trusts | Description | Diagram |
 | --- | --- | --- |
-| Directional |The trust direction flows from trusting domain to trusted domain | ![[directionalTrust.png]]|
-| Transitive | The trust relationship is extended beyond a two-domain trust to include other trusted domains | ![[transitiveTrust.png]]|
+| Directional |The trust direction flows from trusting domain to trusted domain | ![](https://github.com/FGabi01/TCM_Security/tree/main/TCM/TCM_Security/Pictures/directionalTrust.png)|
+| Transitive | The trust relationship is extended beyond a two-domain trust to include other trusted domains | ![](https://github.com/FGabi01/TCM_Security/tree/main/TCM/TCM_Security/Pictures/transitiveTrust.png)|
 
 ---
 ### Objects
